@@ -1,0 +1,14 @@
+{
+  "name": "forexratewebcrawler",
+  "version": "0.0.1",
+  "description": "WebCrawler for Foreign Currency Exchange Rate Information",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RawTimmy",
+  "license": "ISC",
+  "dependencies": {
+    "nedb": "^1.8.0"
+  }
+}
